@@ -1,4 +1,4 @@
-# Projeto módulo 2 - Cubos Academy
+# Projeto módulo 2 - Cubos Bank
 ## API REST - Sistema Bancário
 Criação de uma API no padrao Rest para um sistema bancário de um banco digital Cubos Bank.
 
