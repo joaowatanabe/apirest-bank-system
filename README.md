@@ -55,6 +55,15 @@ Projeto desenvolvido durante o curso de desenvolvimento de software fullstack, o
 - [x] Consultar saldo da conta bancária
 - [x] Emitir extrato bancário
 
+## Dados
+- Os dados serão persistidos em memória(bancodedados.js)
+
+## Requisitos obrigatórios
+- Deve seguir o padrão REST
+- Código deve estar organizado (index.js, servidor.js, rotas.js, pasta controladores)
+- Valor em dinheiro, representado em centavos
+- Utilizar status code adequado
+
 ---
 
 ## 🛣️ Como executar o projeto
